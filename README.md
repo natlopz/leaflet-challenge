@@ -1,6 +1,8 @@
 # leaflet-challenge
 Module 15 Challenge
 
+## Leaflet Part 1
+
 Page: https://natlopz.github.io/leaflet-challenge/
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
